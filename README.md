@@ -1,6 +1,7 @@
 # Chartist::Rails
 
-TODO: Write a gem description
+This gem is a wrapper for the [Charist.js](https://github.com/gionkunz/chartist-js) library.
+It is not finished yet and will not work.
 
 ## Installation
 
@@ -10,17 +11,15 @@ Add this line to your application's Gemfile:
 gem 'chartist-rails'
 ```
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install chartist-rails
-
 ## Usage
 
 TODO: Write usage instructions here
+
+Then add this to your `app/assets/javascripts/application.js.coffee`:
+
+```
+#= require chartist
+```
 
 ## Contributing
 

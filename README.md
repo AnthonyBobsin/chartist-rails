@@ -13,9 +13,7 @@ gem 'chartist-rails'
 
 ## Usage
 
-TODO: Write usage instructions here
-
-Then add this to your `app/assets/javascripts/application.js.coffee`:
+Add this to your `app/assets/javascripts/application.js.coffee`:
 
 ```
 #= require chartist

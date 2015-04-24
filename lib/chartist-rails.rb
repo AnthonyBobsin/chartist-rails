@@ -1,4 +1,4 @@
-require "chartist/chartist-rails/version"
+require "chartist-rails/version"
 
 module Chartist
     module Rails

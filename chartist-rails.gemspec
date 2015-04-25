@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Chartist::Rails::VERSION
   spec.authors       = ["AnthonyBobsin"]
   spec.email         = ["bobsinj@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Vendors the Chartist.js library for use with the Rails' assets pipeline.}
+  spec.description   = %q{}
+  spec.homepage      = "https://github.com/AnthonyBobsin/chartist-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

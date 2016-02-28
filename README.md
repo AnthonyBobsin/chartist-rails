@@ -1,6 +1,6 @@
 # Chartist::Rails
 
-This gem is a wrapper for the [Charist.js](https://github.com/gionkunz/chartist-js) library (v0.9.5).
+This gem is a wrapper for the [Charist.js](https://github.com/gionkunz/chartist-js) library (v0.9.7).
 The state of this gem is that it is fully functional, but you can not change the settings yet.
 I am currently working on a generator so that you can customize the settings file to your liking.
 
